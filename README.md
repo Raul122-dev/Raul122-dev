@@ -1,5 +1,4 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/WUTywPPYZpdDChyBaZ/giphy.gif" with="200" />
     <h1 align="center">Hi 👋, I'm Raul-dev</h1>
     <h3 align="center">
         I am a junior developer, I like web design and development, I master some of the many web technologies that exist, but I'm always looking to learn and learn more about the world of web development.
