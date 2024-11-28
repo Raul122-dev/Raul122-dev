@@ -12,7 +12,7 @@
 - 💻 I regularly learn about the world of web development
 - 💬 Ask me about **Python, JavaScript, React, Tailwind and others**
 - 📫 How to reach me **victor.huaycho@tecsup.edu.pe**
-- 🌱 I’m currently learning **C#, Angular and Rust**
+- 🌱 I’m currently learning **C#, Go and Rust**
 
 <div align="left">
     <h3>🔨 Languages an Tools:</h3>
